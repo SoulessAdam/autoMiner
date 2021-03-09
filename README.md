@@ -1,5 +1,5 @@
 # autoMemer
-Automated script/program for sending s.mine, made in 2 minutes with minimal effort and no concern for efficiency or a tidy code base. Written in Python.
+Automated script/program for sending s.mine, made in probably around 2 minutes with minimal effort and no concern for efficiency or a tidy code base. Written in Python.
 
 ## Instructions for use: 
 ### Intercepting a good post request:
